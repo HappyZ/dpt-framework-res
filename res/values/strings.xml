@@ -120,7 +120,7 @@
     <string name="STR_DLGMSG_1001">Turn power off?</string>
     <string name="STR_DLGTITLE_0002">Confirmation</string>
     <string name="STR_SCRLINE_1003">"Turning power off... "</string>
-    <string name="STR_SCRLINE_1001">Pressing the power button will restore the Digital Paper from sleep mode.</string>
+    <string name="STR_SCRLINE_1001">"I'll Be Nicer if You'll Be Smarter."</string>
     <string name="STR_SCRLINE_1007">Charge the Digital Paper.</string>
     <string name="byteShort">B</string>
     <string name="kilobyteShort">KB</string>
