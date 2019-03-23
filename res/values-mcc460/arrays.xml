@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="config_gpsParameters">
+        <item>SUPL_HOST=supl.nokia.com</item>
+        <item>SUPL_PORT=7275</item>
+        <item>NTP_SERVER=asia.pool.ntp.org</item>
+        <item>SUPL_VER=0x10000</item>
+        <item>SUPL_MODE=1</item>
+    </string-array>
+</resources>

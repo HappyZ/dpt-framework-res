@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_appearance_large_size">36.0dip</dimen>
+    <dimen name="text_appearance_medium_size">30.0dip</dimen>
+    <dimen name="text_appearance_small_size">26.0dip</dimen>
+    <dimen name="font_size_text_l_l">36.0dip</dimen>
+    <dimen name="font_size_text_l_m">30.0dip</dimen>
+    <dimen name="font_size_text_l_s">26.0dip</dimen>
+    <dimen name="font_size_text_c_xl">36.0dip</dimen>
+    <dimen name="font_size_text_c_l">32.0dip</dimen>
+    <dimen name="font_size_text_c_m">26.0dip</dimen>
+    <dimen name="font_size_text_c_s">24.0dip</dimen>
+    <dimen name="font_size_text_g_m">30.0dip</dimen>
+</resources>
