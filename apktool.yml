@@ -406,11 +406,14 @@ doNotCompress:
 - res/drawable-mdpi-v4/popup_top_bright_blink_b.9.png
 - res/drawable-mdpi-v4/popup_top_bright_blink_w.9.png
 - res/drawable-mdpi-v4/popup_top_dark.9.png
+- res/drawable-mdpi-v4/progress_bg.9.png
 - res/drawable-mdpi-v4/progress_bg_holo_dark.9.png
 - res/drawable-mdpi-v4/progress_bg_holo_light.9.png
 - res/drawable-mdpi-v4/progress_mtrl_alpha.9.png
+- res/drawable-mdpi-v4/progress_primary.9.png
 - res/drawable-mdpi-v4/progress_primary_holo_dark.9.png
 - res/drawable-mdpi-v4/progress_primary_holo_light.9.png
+- res/drawable-mdpi-v4/progress_secondary.9.png
 - res/drawable-mdpi-v4/progress_secondary_holo_dark.9.png
 - res/drawable-mdpi-v4/progress_secondary_holo_light.9.png
 - res/drawable-mdpi-v4/quickactions_arrowdown_left_holo_dark.9.png
@@ -604,4 +607,4 @@ usesFramework: null
 version: 2.3.4
 versionInfo:
   versionCode: '22'
-  versionName: 1.4.01.16100-876
+  versionName: 1.6.00.15110-eng..20190311.044657

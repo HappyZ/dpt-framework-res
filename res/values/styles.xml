@@ -583,7 +583,7 @@
         <item name="indeterminateOnly">false</item>
         <item name="indeterminateDrawable">@drawable/progress_indeterminate_horizontal</item>
         <item name="progressDrawable">@drawable/progress_horizontal</item>
-        <item name="minHeight">20.0dip</item>
+        <item name="minHeight">1.0dip</item>
         <item name="mirrorForRtl">true</item>
     </style>
     <style name="Widget.SeekBar" parent="@style/Widget">

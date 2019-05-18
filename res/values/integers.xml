@@ -50,7 +50,7 @@
     <integer name="config_wifi_framework_associated_partial_scan_max_num_passive_channels">3</integer>
     <integer name="config_wifi_framework_max_connection_errors_to_blacklist">4</integer>
     <integer name="config_wifi_framework_max_auth_errors_to_blacklist">4</integer>
-    <integer name="config_wifi_framework_network_black_list_min_time_milli">120000</integer>
+    <integer name="config_wifi_framework_network_black_list_min_time_milli">10000</integer>
     <integer name="config_wifi_framework_current_network_boost">25</integer>
     <integer name="config_wifi_framework_scan_result_rssi_level_patchup_value">-85</integer>
     <integer name="config_wifi_driver_stop_delay">120000</integer>
